@@ -25,3 +25,5 @@ After this, you can click ENV button to get approximately number of people aroun
 Health value is a great tool to measure your health situation, every time you scan or get places,
 Our system will give you a health evaluation. If you score is under 400, please consider stay at home.
 
+## Code
+Added part is in MapsActivityCurrentPlace.java onCreate(), onActivityResult() and openPlacesDialog()
