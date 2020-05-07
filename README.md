@@ -27,3 +27,5 @@ Our system will give you a health evaluation. If you score is under 400, please 
 
 ## Code
 Added part is in MapsActivityCurrentPlace.java onCreate(), onActivityResult() and openPlacesDialog()
+
+API is deleted, please add a API key when test it.
